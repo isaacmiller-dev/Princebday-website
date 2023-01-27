@@ -7,5 +7,5 @@ const month = dateset2.getMonth();
 const princebday = date + " " + month;
 
 if (princebday.toString  != "26 0") {
-    document.head.innerHTML = "<meta http-equiv='refresh' content='0; url=princebday.site/not'/>"
+    document.head.innerHTML = "<meta http-equiv='refresh' content='0; url=not'/>"
 }
