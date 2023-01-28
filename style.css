@@ -13,3 +13,6 @@ img {
     font-size: xx-large;
     font-style: normal;
   }
+a {
+    position:relative; left:80px; top:2px
+}
