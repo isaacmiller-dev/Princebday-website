@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 10px;
+  }
+.pronce {
+    color: aquamarine;
+    font-style: normal;
+    font-size: large;
+  }
+.not {
+    font-size: xx-large;
+    font-style: normal;
+  }
